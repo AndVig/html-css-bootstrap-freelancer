@@ -5,6 +5,22 @@ header{
 .white{
     color: white;
 }
+.txt-green{
+    color: #1abc9c;
+}
 .green{
     background-color: #1abc9c;
+}
+.l-blue{
+    background-color: #3a546d;
+}
+.d-blue{
+    background-color: #2c3e50;
+}
+.social{
+    border: 1px white solid;
+    border-radius: 100%;
+    height: 50px;
+    width: 50px;
+    padding-top: 15px;
 }
